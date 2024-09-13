@@ -18,7 +18,7 @@ body {
   overflow: hidden;
   color: #111;
   background: #fff;
-  max-width: 998px;
+  max-width: 982px;
 }
 #es-garnier.es-garnier * {
   box-sizing: border-box;
@@ -1251,7 +1251,7 @@ body {
     text-align: right;
   }
 }
-@media screen and (min-width: 998px) {
+@media screen and (min-width: 982px) {
   #es-garnier.es-garnier .es-info__title {
     font-size: 22px;
   }
